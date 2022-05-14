@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "rails", "5.2.6.2"
+gem "rails", "5.2.7.1"
 
 # Legacy Rails features, remove me!
 # responders (class level)
@@ -23,7 +23,7 @@ gem "diaspora_federation-rails", "0.2.7"
 gem "acts_as_api", "1.0.1"
 gem "json",        "2.3.0"
 gem "json-schema", "2.8.1"
-gem "yajl-ruby",   "1.4.1"
+gem "yajl-ruby",   "1.4.2"
 
 # Authentication
 
@@ -147,7 +147,7 @@ gem "leaflet-rails",       "1.7.0"
 
 # Parsing
 
-gem "nokogiri",          "1.12.5"
+gem "nokogiri",          "1.13.4"
 gem "open_graph_reader", "0.7.2" # also update User-Agent in features/support/webmock.rb and open_graph_cache_spec.rb
 gem "redcarpet",         "3.5.1"
 gem "ruby-oembed",       "0.15.0"
