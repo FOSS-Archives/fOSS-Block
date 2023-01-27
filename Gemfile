@@ -95,7 +95,7 @@ gem "entypo-rails", "3.0.0"
 
 gem "handlebars_assets", "0.23.9"
 gem "jquery-rails",      "4.4.0"
-gem "jquery-ui-rails",   "5.0.5"
+gem "jquery-ui-rails",   "6.0.0"
 gem "js-routes",         "2.1.2"
 gem "js_image_paths",    "0.1.1"
 gem "sprockets-es6",     "0.9.2"
